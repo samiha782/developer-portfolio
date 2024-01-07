@@ -166,3 +166,10 @@ main section {
 .download-cv {
   text-align: center;
 }
+/* footer */
+footer {
+  display: flex;
+  background: #fff8f3;
+  margin-top: 100px;
+  padding-top: 130px 200px;
+}
